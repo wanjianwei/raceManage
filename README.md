@@ -54,7 +54,7 @@
 > ![我的信息](./race_android/myinfo.jpg)   
 
 > ![问题](./race_android/pro10_17.jpg)
-> ![购票](./race_android/ticket10_17)
+> ![购票](./race_android/ticket10_17.jpg)
 > ![推送](./race_android/tuisong.jpg)   
 
 

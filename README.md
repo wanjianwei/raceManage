@@ -50,7 +50,7 @@
 > ![进行中](./race_android/jinxinzhong.jpg)   
 
 > ![门票](./race_android/menpiao.jpg)
-> ![我的](./race_android/my.jpg)
+> ![我的](./race_android/first.jpg)
 > ![我的信息](./race_android/myinfo.jpg)   
 
 > ![问题](./race_android/pro10_17.jpg)
